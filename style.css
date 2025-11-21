@@ -45,12 +45,10 @@ button{
     font-size: 20px;
     font-weight: bold;
     border: 2px solid yellow;
-    transition: transform 2s;
 }
 button:hover{
     background-color: red;
     color: black;
-    transform: rotateX(360deg);
 }
 h1{
     color: chartreuse;
